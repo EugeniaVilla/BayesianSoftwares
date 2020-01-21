@@ -1,3 +1,4 @@
+
 # JAGS STAN and NIMBLE : Hands on comparison
 19 February 2020
 
@@ -38,5 +39,4 @@ Department of Matematics,
 University of Politecnico di Milano, 
 Milano,
 Italy
-
 
