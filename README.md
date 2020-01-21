@@ -2,6 +2,7 @@
 19 February 2020
 
 # Comparison on performance of different Bayesian Softwares: JAGS, STAN and NIMBLE
+
 This repository contains two main elements.
 
 #1 Report
@@ -29,7 +30,7 @@ Giulia Gualtieri, giulia.gualtieri@mail.polimi.it
 Eugenia Villa, eugenia.villa@mail.polimi.it
 Riccardo Vitali, riccardo3.vitali@mail.polimi.it
 
-Department of Matematics
+Department of Matematics,
 University of Politecnico di Milano, 
 Milano,
 Italy
