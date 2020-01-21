@@ -28,6 +28,7 @@ We will then modify the code, which may be benefical to other readers.
 Giulia Gualtieri, giulia.gualtieri@mail.polimi.it
 Eugenia Villa, eugenia.villa@mail.polimi.it
 Riccardo Vitali, riccardo3.vitali@mail.polimi.it
+
 Department of Matematics
 University of Politecnico di Milano, 
 Milano,
