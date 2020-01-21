@@ -6,6 +6,7 @@
 This repository contains two main elements.
 
 #1 Report
+
 It is available in portable document format(pdf).
 The report presents the results of the comparison between three software, Stan, Jags and Nimble, for building analysis methods for statistical models from R, especially for hierarchical models and computationally-intensive methods.
 The study is focused on four main model: Linear, Linear-Mixed, Generalized and Acceleration Failure Time.
@@ -13,6 +14,7 @@ The main objective of the study is to compare different approaches used by each 
 It contains details of Bayesian approach used for each different models analyzed.
 
 #2 MODELS
+
 It is a folder containing a subfolder for each model analyzed, so: LINEAR MODEL, GENERALIZED LINEAR MODEL, LINEAR MIXED MODEL and AFT MODEL subfolders.
 Each _NameofModel_ Model folder contains a Final_Code.R, that is the principal file R; different files STAN corresponding to model of different prior's choice of each _NeameofModel_.
 In general, the _NameofModel_ Final_Code.R is divided into five main paragraphs:
