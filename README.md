@@ -24,6 +24,8 @@ In general, the _NameofModel_ Final_Code.R is divided into five main paragraphs:
 4. CONJUGATE HIERARCHICAL - MODEL 
 5. NOT INFORMATIVE - MODEL 
 
+
+
 If you find any error in the code, please let us now (by e-mail addresses reported below).
 We will then modify the code, which may be benefical to other readers.
 
