@@ -3,7 +3,7 @@
 
 # Comparison on performance of different Bayesian Softwares: JAGS, STAN and NIMBLE
 
-This repository contains two main elements.
+The repository contains two main elements.
 
 #1 Report
 
