@@ -1,0 +1,2 @@
+Error in library(rjags) : there is no package called 'rjags'
+Execution halted
