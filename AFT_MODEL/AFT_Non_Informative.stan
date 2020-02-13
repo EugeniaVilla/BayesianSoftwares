@@ -23,8 +23,8 @@ transformed parameters{
   vector[N_o] lambda_o;
   
   // standard weibull AFT re-parameterization
-  lambda_m = log(2)*exp(-(X_m*beta)*alpha);
-  lambda_o = log(2)*exp(-(X_o*beta)*alpha);
+  lambda_m = exp((X_m*beta))/pow(log(2),(1/alpha));
+  lambda_o = exp((X_o*beta))/pow(log(2),(1/alpha));
 }
 
 model {
